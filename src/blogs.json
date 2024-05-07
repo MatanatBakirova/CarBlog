@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Audio",
+        "owner": "Avqust Horx",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714576853/download_x9gcup.jpg",
+        "about": "Audi AG is a German luxury car manufacturer based in Ingolstadt, Bavaria, Germany. Audi, a subsidiary of the Volkswagen Group, produces cars at nine production facilities around the world.",
+        "id": 1
+    },
+    {
+        "name": "BMV (Bayerische Motoren Werke AG)",
+        "owner": "Franz Josef Popp",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577017/download_1_d1hcan.jpg",
+        "about": "Bayerische Motoren Werke AG, commonly abbreviated as BMW, is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.",
+        "id": 2
+    },
+    {
+        "name": "Mercedes-Benz",
+        "owner": "Karl Benz",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577132/images_jidnvd.jpg",
+        "about": "Mercedes-Benz, commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. Mercedes-Benz AG is headquartered in Stuttgart, Baden-Württemberg, Germany.",
+        "id": 3
+    },
+    {
+        "name": "Range Rover",
+        "owner": "British Leyland",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577664/images_1_ph9est.jpg",
+        "about": "Land Rover is a British brand of mainly four-wheel drive off-road vehicles owned by multinational car manufacturer Jaguar Land Rover, a subsidiary of India's Tata Motors since 2008. JLR currently manufactures Land Rovers in Brazil, China, India, Slovakia and the UK.",
+        "id": 4
+    },
+    {
+        "name": "Toyota",
+        "owner": " Kiichiro Toyoda",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577701/rav4_z7q8o1.jpg",
+        "about": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is the largest automobile manufacturer in the world, producing about 10 million vehicles per year.",
+        "id": 5
+    },
+    {
+        "name": "Mini Cooper",
+        "owner": "Con Beyts",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577920/2025-mini-cooper-hardtop-exterior-101-65c3b69c36553_koxzxz.jpg",
+        "about": "Mini is a British automotive brand founded in Oxford in 1969, owned by German Multinational automotive company BMW since 2000, and used by them for a range of small cars assembled in the United Kingdom, Austria, Netherlands and Germany",
+        "id": 6
+    },
+    {
+        "name": "Porsche",
+        "owner": "Ferdinand Alexander",
+        "image": "https://res.cloudinary.com/dtuiajnrc/image/upload/v1714577930/porsche-suv-elettrico-7-posti-il-render-di-motor1.com_u34js8.jpg",
+        "about": "İngilis dilindən tərcümə edilib-Bayerische Motoren Werke AG, ümumi olaraq BMW olaraq qısaldılmışdır, baş ofisi Münhen, Bavariya, Almaniyada yerləşən lüks nəqliyyat vasitələri və motosikletlərin çoxmillətli Alman istehsalçısıdır.",
+        "id": 7
+    }
+]

@@ -1,0 +1,23 @@
+.nav-link{
+    color: #fff;
+}
+.CarSection{
+    background-image: url(../assets/images/car.jpg);
+    background-size: cover; /* Resmi ekran boyutuna göre uyumlu hale getirir */
+    background-position: center; /* Resmi sayfa içinde ortalar */
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+.introduction h1{
+    font-size: 36px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+.trending{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+}
+.seeall{
+    list-style-type: none;
+}
