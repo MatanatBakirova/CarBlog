@@ -18,7 +18,7 @@ const CarBlog = () => {
     <CarSection/>
         </div>
         <CarSection2/>
-        <CarSection3/>
+        {/* <CarSection3/> */}
         <CarFooter/>
       </div>
     </div>

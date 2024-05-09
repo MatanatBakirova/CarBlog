@@ -6,10 +6,10 @@ import { IconContext } from 'react-icons';
 const CarFooter = () => {
   return (
     <>
-    <div>
+  
 
   
-    <div className=' ' style={{height:'392px', background:'#232536',}}> 
+    <div className='' style={{height:'392px', background:'#232536'}}> 
     <nav class=" navbar navbar-expand-lg pb-4 pt-3">
   <div class="container">
     <a class="navbar-brand" href="#">Logo</a>
@@ -66,7 +66,7 @@ const CarFooter = () => {
             </div>
         
         </div>
-    </div>
+    
     </>
 
   )

@@ -59,7 +59,8 @@ axios.get(linkApi)
   </div>
 </div>
      <div className="container">
-        <div className="row">
+      <div className='new tecnology'>
+      <div className="row">
           <div className=' container d-flex'>
           <span className=' mb-4 fs-2 fw-bold'>New Technology</span>
           <a href=""className='pb-2 ms-auto fs-5 pe-5 text-dark fw-medium' style={{textDecoration:'none'}}>See All</a>
@@ -77,7 +78,74 @@ axios.get(linkApi)
             </div>
           ))}
         </div>
+
+        
       </div>
+       <div className='border mt-5 mb-5' ></div>
+<div className='Allcategory '>
+  <div className='container mt-4'>
+  <span className=' mb-5 fs-2 fw-bold'>All Category</span>
+  </div>
+<div className='row mb-5 mt-5'>
+<div className="p-2 col-12 col-md-6 col-lg-3">
+<div class="card container "style={{width:'250px',background:'#f4f0f8'}}>
+  <div className='text-center'>
+  <img src="../../public/images/caraudio.jpg" className="card-img-top p-2 rounded-circle" alt=""  style={{width:'150px',height:'150px'}}/>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center fw-bold">Car Reviews</h5>
+    {/* It's random names */}
+    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+</div>
+<div className="p-2 col-12 col-md-6 col-lg-3">
+<div class="card container "style={{width:'250px',background:'#f4f0f8'}}>
+  <div className='text-center'>
+  <img src="../../public/images/carbmw.jpg" className="card-img-top p-2 rounded-circle" alt=""  style={{width:'150px',height:'150px'}}/>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center fw-bold">Car Reviews</h5>
+    {/* It's random names */}
+    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+</div>
+<div className="p-2 col-12 col-md-6 col-lg-3">
+<div class="card container "style={{width:'250px',background:'#f4f0f8'}}>
+  <div className='text-center'>
+  <img src="../../public/images/cargray.jpg" className="card-img-top p-2 rounded-circle" alt=""  style={{width:'150px',height:'150px'}}/>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center fw-bold">Car Reviews</h5>
+    {/* It's random names */}
+    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+</div>
+<div className="p-2 col-12 col-md-6 col-lg-3">
+<div class="card container "style={{width:'250px',background:'#f4f0f8'}}>
+  <div className='text-center'>
+  <img src="../../public/images/caryellow.jpg" className="card-img-top p-2 rounded-circle" alt=""  style={{width:'150px',height:'150px'}}/>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center fw-bold">Car Reviews</h5>
+    {/* It's random names */}
+    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
+</div>
+</div>
+
+    </div>
+</div>
+
+
+
 
 
 
